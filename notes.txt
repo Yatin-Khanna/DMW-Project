@@ -1,0 +1,17 @@
+Steps:
+
+1. Remove unnecessary features (Hashes)
+2. Clean Data 
+
+    -> Remove null values (only ages were null in 10k rows, removed them)
+    -> Remove customer records which did not stay 
+
+
+3. Find Patterns
+
+
+-> Age and Country based Spending Patterns 
+-> Age based room Patterns
+-> Age and Country based Demands Patterns 
+-> Repeat customer behavior
+
